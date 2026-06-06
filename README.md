@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/76/46/1b/76461be3e68470e0ddb5f017aa24f316.jpg" width="200" align="center" alt="Description of picture">
+<img src="https://i.pinimg.com/736x/76/46/1b/76461be3e68470e0ddb5f017aa24f316.jpg" width="600" align="center" alt="Description of picture">
 
 
 <!--
