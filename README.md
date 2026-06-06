@@ -2,7 +2,7 @@
 
 <!-- MAIN TITLE -->
 <h1>
-  <font color="#4a148c"> TITLE_HERE </font>
+  <font color="#4a148c"> WELCOME!! </font>
 </h1>
 <!--
 **ghoulswhisper/ghoulswhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
