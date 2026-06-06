@@ -1,20 +1,12 @@
-<img src="https://i.pinimg.com/736x/76/46/1b/76461be3e68470e0ddb5f017aa24f316.jpg" width="600" align="center" alt="Description of picture">
+<img src="https://i.pinimg.com/736x/76/46/1b/76461be3e68470e0ddb5f017aa24f316.jpg" width="1000" align="center" alt="Description of picture">
 
 <!-- MAIN TITLE -->
-<h1>
-  <font color="#4a148c"> WELCOME!! </font>
-</h1>
-<!--
-**ghoulswhisper/ghoulswhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">WELCOME !!</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
