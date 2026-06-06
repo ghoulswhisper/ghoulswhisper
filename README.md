@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/736x/76/46/1b/76461be3e68470e0ddb5f017aa24f316.jpg" width="600" align="center" alt="Description of picture">
 
-
+ <h1 style="color: #4a148c;"> WELCOME!! </h1>
 <!--
 **ghoulswhisper/ghoulswhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
